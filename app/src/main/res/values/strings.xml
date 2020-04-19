@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Restaurante el buen comer</string>
+    <string name="mnuAcercaDe">Acerca de...</string>
+    <string name="mnuPlatosFuertes">Platos fuertes</string>
+    <string name="Ensaladas">Ensaladas</string>
+    <string name="Bebidas">Bebidas</string>
+    <string name="restauranteDescripcion">Demasiado a menudo, un restaurante de alta cocina pierde fuerza cuando llega el momento de deleitar al comensal con un buen postre. </string>
+</resources>
